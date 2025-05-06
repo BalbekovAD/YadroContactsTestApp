@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "YadroContactsTestApp"
 include(":app")
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")

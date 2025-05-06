@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">YadroContactsTestApp</string>
+    <string name="avatar_content_description">Contact avatar</string>
+    <string name="permissions_request">We need your permission to make phone calls, read your contacts and modify them. Please grant it</string>
+    <string name="grant_permissions">Grant permissions</string>
+    <string name="delete_duplicate_contacts">Delete duplicate contacts</string>
+    <string name="refresh">Refresh</string>
+    <string name="need_read_contacts">Please, grant us permission to read your contacts</string>
+    <string name="need_phone_call_permission">Please, grant us permission to make phone calls</string>
+    <string name="phone_call_internal_error">Can\'t make a call. Internal error</string>
+    <string name="service_connection_error">Error while deleting duplicates: can\'t connect to service</string>
+    <string name="dup_contacts_not_found">No duplicating contacts found</string>
+    <string name="deleting_duplicates_internal_error">Internal error happened while deleting duplicates</string>
+    <string name="deduplicating_contacts_success">Delete was successful! %1$d contacts deleted</string>
 </resources>
